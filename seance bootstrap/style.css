@@ -1,0 +1,12 @@
+#carouselExampleCaptions {
+    width: 80%;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background: #318ce7;
+}
